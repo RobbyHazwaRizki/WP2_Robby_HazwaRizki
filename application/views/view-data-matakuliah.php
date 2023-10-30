@@ -1,10 +1,8 @@
-<html>
+<html> 
 
 <head>
-
-    <title> Tampil Data Kuliah </title>
-
-</head>
+    <title>Tampil Data Matakuliah</title> 
+</head> 
 
 <body> 
     <center> 
@@ -24,7 +22,7 @@
                 <th>:</th> 
                 <td> 
                     <?= $kode; ?> 
-            </td> 
+                </td> 
             </tr> 
             <tr> 
                 <td>Nama MTK</td> 
@@ -44,10 +42,9 @@
                 <td colspan="3" align="center"> 
                     <a href="<?= base_url('matakuliah'); ?>">Kembali</a> 
                 </td>
-            </tr> 
-        </table> 
+            </tr>
+        </table>
     </center>
-
-</body> 
+</body>
 
 </html>
