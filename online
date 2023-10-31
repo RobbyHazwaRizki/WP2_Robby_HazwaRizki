@@ -1,0 +1,41 @@
+[33mcommit ebf63ce4cd9cde5aa4393cf6655fb6b42fa361b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mgithub/master[m[33m)[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 19:18:42 2023 +0700
+
+    update template sederhana
+
+[33mcommit c0192b755b2387be7fd98fc19d1ee15d6f00396f[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 16:46:52 2023 +0700
+
+    membuat template sederhana dan dinamis dan setting base url
+
+[33mcommit 9bfe98841e8137dee0cf0f7f0d30c20e9a20e0da[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 15:39:08 2023 +0700
+
+     menghilangkan index
+
+[33mcommit 6f55d418018652bbf77e91ba0e0b7ea626b0809f[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 15:35:46 2023 +0700
+
+    menambahkan contoh1,2,3
+
+[33mcommit 81a4194b2384199f88bfbdb04660a04b80c4094c[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 15:06:48 2023 +0700
+
+    menambahkan Contoh1
+
+[33mcommit 1a22e87c52b54c9d1b45ed9262ee1058bc3a6b17[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 14:59:12 2023 +0700
+
+     fix bug
+
+[33mcommit 97576e6dabba859d90c3d246da2a4dab2d810744[m
+Author: RobbyHazwaRizki <robbyhazwarizky27@gmail.com>
+Date:   Mon Oct 30 14:38:10 2023 +0700
+
+    menambahkan Codeigniter3
