@@ -16,15 +16,15 @@ class Matakuliah extends CI_Controller
             'min_lenght' => 'Nama terlalu pendek' 
         ]);
         if ($this->form_validation->run() != true) {
-             $this->load->view('view-form-matakuliah'); 
-            } else {
-        $data = [ 
-            'kode' => $this->input->post('kode'), 
-            'nama' => $this->input->post('nama'), 
-            'sks' => $this->input->post('sks') 
-        ];
+            $this->load->view('view-form-matakuliah'); 
+        } else {
+            $data = [ 
+                'kode' => $this->input->post('kode'), 
+                'nama' => $this->input->post('nama'), 
+                'sks' => $this->input->post('sks') 
+            ];   
 
-        $this->load->view('view-data-matakuliah', $data);
+            $this->load->view('view-data-matakuliah', $data);
         }
     }
 }
